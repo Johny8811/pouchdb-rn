@@ -4,7 +4,7 @@
  * Adapted from https://github.com/tradle/asyncstorage-down
  */
 
-import { AsyncStorage } from 'react-native'
+import AsyncStorage from '@react-native-community/async-storage'
 import { safeJsonParse, safeJsonStringify } from 'pouchdb-json'
 
 function createPrefix(dbName) {
