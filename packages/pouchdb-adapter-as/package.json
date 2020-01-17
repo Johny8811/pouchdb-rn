@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stockulus/pouchdb-react-native.git"
+    "url": "git+https://github.com/stockulus/pouchdb-rn.git"
   },
   "keywords": [
     "pouchdb",
