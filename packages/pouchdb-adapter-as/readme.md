@@ -1,7 +1,7 @@
 pouchdb-adapter-as
 ======
 
-PouchDB adapter using AsyncStorage as its data store. Designed to run in ReactNative. Its adapter name is `'asyncstorage'`.
+PouchDB adapter using **community/asyncStorage** as its data store. Its adapter name is `'asyncstorage'`.
 
 [![npm Package](https://img.shields.io/npm/v/pouchdb-adapter-asyncstorage.svg)](https://www.npmjs.com/package/pouchdb-adapter-as) [![travis-ci.org](https://travis-ci.org/stockulus/pouchdb-react-native.svg)](https://travis-ci.org/stockulus/pouchdb-react-native) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![license](https://img.shields.io/npm/l/pouchdb-adapter-asyncstorage.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
 
